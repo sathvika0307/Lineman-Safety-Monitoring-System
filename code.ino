@@ -1,5 +1,3 @@
-## **CODE**
-
 #define shortCircuitPin A0  // Pin to detect short circuit (Analog Input) 
 #define buzzerPin 8        
  // Buzzer for alarm 
